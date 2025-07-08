@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @zAlejandro
 - 👀 I’m interested in computer Software in general
 - 🌱 I’m currently learning artifitial intelligence and software architecture
+- 💻 Should i try Tauri?? 
